@@ -10,3 +10,4 @@ added an executable file movethatfile
 9-firstdirdeletion added to the shell basics
 10-back added to the shell basics
 11-lists added to the shell basics booiii
+12-file_type has been created in shell basics
