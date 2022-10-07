@@ -5,3 +5,4 @@
 4-listmorefiles List all files even ones with names beginning with a period character in long format
 5-listfilesdigitonly Displays current directory contents with user and group IDs displayed numerically
 6-firstdirectory creates directory my first in tmp
+7-movethatfile moves Betty to tmp my first directory
