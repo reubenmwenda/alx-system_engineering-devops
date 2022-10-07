@@ -7,3 +7,4 @@
 6-firstdirectory creates directory my first in tmp
 7-movethatfile moves Betty to tmp my first directory
 8-firstdelete is for deleting betty
+9-firstdirdeletion is for deleting my_first_directory
