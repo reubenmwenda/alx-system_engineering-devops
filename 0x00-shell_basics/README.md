@@ -4,3 +4,4 @@
 3-listfiles lists directory in long format
 4-listmorefiles List all files even ones with names beginning with a period character in long format
 5-listfilesdigitonly Displays current directory contents with user and group IDs displayed numerically
+6-firstdirectory creates directory my first in tmp
