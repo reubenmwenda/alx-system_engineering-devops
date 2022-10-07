@@ -11,3 +11,4 @@
 10-back changes pwd to previous one
 11-lists shows a list of files in a format 
  12-file_type creates a file in tmp
+13-symbolic_link makes a link to bin
