@@ -12,3 +12,4 @@
 11-lists shows a list of files in a format 
  12-file_type creates a file in tmp
 13-symbolic_link makes a link to bin
+14-copy_html copies all html files from current to parent dir
