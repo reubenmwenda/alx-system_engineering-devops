@@ -24,3 +24,4 @@ added an executable file movethatfile
 8-James_Bond is here to stay
 9-John_Doe is here bwana
 here bwana we have 10-mirror_permissions
+11-directories_permissions is here bwana
