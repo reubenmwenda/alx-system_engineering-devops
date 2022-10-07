@@ -9,3 +9,4 @@
 8-firstdelete is for deleting betty
 9-firstdirdeletion is for deleting my_first_directory
 10-back changes pwd to previous one
+11-lists shows a list of files in a format 

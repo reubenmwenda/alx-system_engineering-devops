@@ -9,3 +9,4 @@ added an executable file movethatfile
 8-firstdelete added to the mix
 9-firstdirdeletion added to the shell basics
 10-back added to the shell basics
+11-lists added to the shell basics booiii
