@@ -8,3 +8,4 @@
 7-movethatfile moves Betty to tmp my first directory
 8-firstdelete is for deleting betty
 9-firstdirdeletion is for deleting my_first_directory
+10-back changes pwd to previous one
