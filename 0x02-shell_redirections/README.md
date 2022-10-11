@@ -6,3 +6,4 @@ confused_smiley makes a smiley face
 5-firstlines displays the first ten line of passwd
 6-third_line shows line 3 of iacta
 7-file creates file best school
+8cwdstate stores ls -la output in cwd
