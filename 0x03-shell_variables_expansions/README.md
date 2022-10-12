@@ -6,3 +6,4 @@
 5-local_variables is for printing env variables local var and functions
 6-create_local_variable is used to creat a local variable BEST
 7-create_global_variable is used to creat a Global variable BEST
+8-true_knowledge adds 128 to TK global variable
