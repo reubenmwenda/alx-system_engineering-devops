@@ -8,3 +8,4 @@ confused_smiley makes a smiley face
 7-file creates file best school
 8cwdstate stores ls -la output in cwd
 duplicate_last_line duplicates the last iacta line
+10-no_more_js deletes all .js files
