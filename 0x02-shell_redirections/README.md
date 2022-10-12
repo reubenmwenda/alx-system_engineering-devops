@@ -9,3 +9,4 @@ confused_smiley makes a smiley face
 8cwdstate stores ls -la output in cwd
 duplicate_last_line duplicates the last iacta line
 10-no_more_js deletes all .js files
+11-directories is used to count number of directories in current
