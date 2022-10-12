@@ -7,3 +7,4 @@ confused_smiley makes a smiley face
 6-third_line shows line 3 of iacta
 7-file creates file best school
 8cwdstate stores ls -la output in cwd
+duplicate_last_line duplicates the last iacta line
