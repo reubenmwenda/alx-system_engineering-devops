@@ -9,3 +9,4 @@
 8-true_knowledge adds 128 to TK global variable
 9-divide and rule is used to divide global vars
 10-love_exponent_breath is used to exponentiate
+11-binary_to_decimal changes BINARY to decimal
